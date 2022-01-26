@@ -1,3 +1,3 @@
-# alpondith_dev
+# Flutter Portfolio
 
 ![Screenshot](screenshot.png)
